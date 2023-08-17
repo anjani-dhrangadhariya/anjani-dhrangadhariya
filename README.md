@@ -3,7 +3,7 @@
 - Earlier, I was learning the use of weak supervision for information extraction for clinical and health-related entities and spans.
 - Currently working on active learning methodologies applied to real-world scenarios.
 - 📫 Reach me by writing on anjani.k.dhrangadhariya@gmail.com
-- ♡♡♡ I love knowing about similarities in different languages, especially how Hindi and its mother, Sanskrit, are linked to Persian and its mother, Avestan, by the threads of history. Avestan and Sanskrit have several cognates and are mutually intelligible, forming deep links between ancient India and Iran far before the Arab conquest. Check out the repos @persian-hindi and @sanskrit-avestan ♡♡♡
+- ♡♡♡ I love knowing about similarities in different languages, especially how Hindi and its mother, Sanskrit, are linked to Persian and its mother, Avestan, by the threads of history. Avestan and Sanskrit have several cognates and are mutually intelligible, forming deep links between ancient India and Iran far before the Arab conquest. Check out the repos @persian-hindi and @sanskrit-avestan. I am also interested in learning more about history and understanding how words metamorphosize over time within the Indian subcontinent. ♡♡♡
 
 <!---
 anjani-dhrangadhariya/anjani-dhrangadhariya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
